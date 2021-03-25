@@ -1,3 +1,5 @@
+Currency Converter | Foreign Exchange Rates [Website Link](https://seanhung07.github.io/react-currency-exchange/)
+https://seanhung07.github.io/react-currency-exchange/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
